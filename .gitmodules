@@ -1,3 +1,6 @@
 [submodule "InferenceModelFactory"]
 	path = inference
 	url = git@github.com:Selkh/InferenceModelFactory.git
+[submodule "inference"]
+	path = inference
+	url = git@github.com:Selkh/InferenceModelFactory.git
